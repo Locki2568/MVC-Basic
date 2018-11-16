@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../java-oo-stey-by-step" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../javaBasic-Objects" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../javaBasic-PrimitiveTypes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../javaBasic-Strings" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../javaBasic-collections" value="PREVIEW" />
+        <entry key="D:/git/b2b_oocl_customs/groovy_script/CSB2BEDIGroovyDevelopment_OB2BCustoms" value="PREVIEW" />
+        <entry key="D:/git/b2b_oocl_customs/groovy_script/EUT/DE_Germany" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="383" />
+    <option name="width" value="863" />
+    <option name="height" value="991" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
